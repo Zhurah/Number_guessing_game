@@ -160,6 +160,13 @@ INSERT INTO public.games VALUES (27, 9, 206);
 INSERT INTO public.games VALUES (28, 8, 633);
 INSERT INTO public.games VALUES (29, 8, 235);
 INSERT INTO public.games VALUES (30, 8, 942);
+INSERT INTO public.games VALUES (31, 10, 396);
+INSERT INTO public.games VALUES (32, 10, 896);
+INSERT INTO public.games VALUES (33, 11, 834);
+INSERT INTO public.games VALUES (34, 11, 319);
+INSERT INTO public.games VALUES (35, 10, 592);
+INSERT INTO public.games VALUES (36, 10, 963);
+INSERT INTO public.games VALUES (37, 10, 423);
 
 
 --
@@ -175,6 +182,8 @@ INSERT INTO public.users VALUES (6, 'user_1779100355900');
 INSERT INTO public.users VALUES (7, 'user_1779100355899');
 INSERT INTO public.users VALUES (8, 'user_1779100444625');
 INSERT INTO public.users VALUES (9, 'user_1779100444624');
+INSERT INTO public.users VALUES (10, 'user_1779101694156');
+INSERT INTO public.users VALUES (11, 'user_1779101694155');
 
 
 --
